@@ -1,2 +1,2 @@
-First and Last Name :
-GitHub Username     :
+First and Last Name : Wolfgang C. Strack
+GitHub Username     : vulfgang
