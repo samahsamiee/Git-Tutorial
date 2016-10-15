@@ -1,2 +1,2 @@
-First and Last Name : Cameron Kurotori
-GitHub Username     : cpkurotori
+First Name and Last Name: Cameron Kurotori
+Git Username: cpkurotori
